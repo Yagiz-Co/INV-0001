@@ -1,0 +1,20 @@
+{
+  "name": "Little Fox Academy",
+  "short_name": "Fox Academy",
+  "description": "İlkokul öğrencileri için eğlenceli ve profesyonel eğitim kursları",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#FFA94D",
+  "orientation": "portrait-primary",
+  "categories": ["education", "kids", "learning"],
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/assets/fox-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

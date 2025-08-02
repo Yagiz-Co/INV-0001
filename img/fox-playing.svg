@@ -1,0 +1,76 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fox body -->
+  <ellipse cx="200" cy="280" rx="60" ry="75" fill="#F18701"/>
+  
+  <!-- Fox head -->
+  <circle cx="200" cy="180" r="50" fill="#F18701"/>
+  
+  <!-- Fox ears -->
+  <ellipse cx="175" cy="140" rx="15" ry="25" fill="#F18701" transform="rotate(-15 175 140)"/>
+  <ellipse cx="225" cy="140" rx="15" ry="25" fill="#F18701" transform="rotate(15 225 140)"/>
+  <ellipse cx="175" cy="145" rx="8" ry="15" fill="#2D2D2D" transform="rotate(-15 175 145)"/>
+  <ellipse cx="225" cy="145" rx="8" ry="15" fill="#2D2D2D" transform="rotate(15 225 145)"/>
+  
+  <!-- Fox snout -->
+  <ellipse cx="200" cy="195" rx="20" ry="15" fill="#F5F0E8"/>
+  
+  <!-- Fox nose -->
+  <circle cx="200" cy="190" r="4" fill="#2D2D2D"/>
+  
+  <!-- Fox eyes (happy expression) -->
+  <path d="M175 170 Q185 165 195 170" stroke="#2D2D2D" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M205 170 Q215 165 225 170" stroke="#2D2D2D" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Fox mouth (smile) -->
+  <path d="M190 200 Q200 210 210 200" stroke="#2D2D2D" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Fox tail (wagging) -->
+  <ellipse cx="130" cy="290" rx="25" ry="45" fill="#F18701" transform="rotate(-40 130 290)"/>
+  <ellipse cx="125" cy="275" rx="12" ry="25" fill="#F5F0E8" transform="rotate(-40 125 275)"/>
+  
+  <!-- Fox arms in playful position -->
+  <ellipse cx="160" cy="230" rx="12" ry="35" fill="#F18701" transform="rotate(-30 160 230)"/>
+  <ellipse cx="240" cy="230" rx="12" ry="35" fill="#F18701" transform="rotate(30 240 230)"/>
+  
+  <!-- Fox legs -->
+  <ellipse cx="175" cy="340" rx="15" ry="25" fill="#F18701"/>
+  <ellipse cx="225" cy="340" rx="15" ry="25" fill="#F18701"/>
+  
+  <!-- Fox paws -->
+  <circle cx="175" cy="355" r="8" fill="#2D2D2D"/>
+  <circle cx="225" cy="355" r="8" fill="#2D2D2D"/>
+  
+  <!-- Ball that fox is playing with -->
+  <circle cx="300" cy="200" r="25" fill="#A8DADC"/>
+  <circle cx="305" cy="195" r="8" fill="#FFD166"/>
+  <circle cx="295" cy="205" r="6" fill="#B7E4C7"/>
+  <circle cx="300" cy="185" r="4" fill="#F5F0E8"/>
+  
+  <!-- Motion lines around ball -->
+  <path d="M330 180 L340 170" stroke="#F18701" stroke-width="2" stroke-linecap="round"/>
+  <path d="M325 160 L335 150" stroke="#F18701" stroke-width="2" stroke-linecap="round"/>
+  <path d="M340 190 L350 185" stroke="#F18701" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Toy blocks scattered around -->
+  <rect x="80" y="300" width="25" height="25" fill="#FFD166" transform="rotate(15 92.5 312.5)"/>
+  <rect x="320" y="320" width="30" height="30" fill="#B7E4C7" transform="rotate(-20 335 335)"/>
+  <rect x="100" y="180" width="20" height="20" fill="#A8DADC" transform="rotate(30 110 190)"/>
+  
+  <!-- Letters on blocks -->
+  <text x="92" y="320" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#2D2D2D" text-anchor="middle" transform="rotate(15 92 320)">A</text>
+  <text x="335" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2D2D2D" text-anchor="middle" transform="rotate(-20 335 340)">B</text>
+  <text x="110" y="195" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2D2D2D" text-anchor="middle" transform="rotate(30 110 195)">C</text>
+  
+  <!-- Playful sparkles -->
+  <circle cx="250" cy="150" r="3" fill="#FFD166"/>
+  <circle cx="120" cy="220" r="2" fill="#FFD166"/>
+  <circle cx="310" cy="280" r="3" fill="#FFD166"/>
+  <circle cx="90" cy="260" r="2" fill="#FFD166"/>
+  
+  <!-- Star shapes -->
+  <path d="M150 100 L152 106 L158 106 L153 110 L155 116 L150 112 L145 116 L147 110 L142 106 L148 106 Z" fill="#FFD166"/>
+  <path d="M280 120 L282 126 L288 126 L283 130 L285 136 L280 132 L275 136 L277 130 L272 126 L278 126 Z" fill="#FFD166"/>
+  
+  <!-- Ground/play area -->
+  <ellipse cx="200" cy="370" rx="120" ry="25" fill="#B7E4C7" opacity="0.5"/>
+</svg>
